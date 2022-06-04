@@ -1,0 +1,35 @@
+.section-d3 {
+  background-color: #fff;
+  /* width: 50%; */
+  height: 270px;
+  margin: 10px 25px;
+  border-radius: 15px;
+  display: flex;
+}
+.stats-section {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.stats-section h4 {
+  background-color: #575e86;
+  padding: 35px 0;
+  font-size: 13px;
+  height: 30%;
+  text-align: center;
+  border-radius: 20px 0 0 0;
+  color: #fff;
+}
+.table {
+  background-color: #575e86;
+  margin-top: -6px;
+  height: 180px;
+  border-radius: 0 0 20px 20px;
+}
+.table tbody {
+  line-height: 2;
+  color: #fff;
+}
+td {
+  padding-bottom: 1em;
+}
